@@ -81,7 +81,7 @@ play.addEventListener('click', demarrer);
 
 
     function demarrer(){
-        delais = setInterval(slideSuivante, 1500);
+        delais = setInterval(slideSuivante, 3000);
          
     };
 
